@@ -1,4 +1,5 @@
 # Tips de seguridad informatica
+## Prueba de titulo de segundo nivel
 ### Dirección General de Tecnologías de la Información y la Comunicación
 ### Ministerio de Relaciones Exteriores y Culto
 
@@ -9,6 +10,8 @@
 5. Mantenga un escritorio limpio. No deje sus contraseñas o información personal a la vista.
 6. No instale nuevos programas salvo bajo pedido/autorización de la DITIC.
 7. No pierdas de vista tu celular.
+
+
 
 Problemas | Soluciones
 -- | --
