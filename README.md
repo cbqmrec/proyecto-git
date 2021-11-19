@@ -21,9 +21,14 @@ Columna 1 | Columna 2
 -- | --
 Fila 1 | Fila 2
 
-# Práctica de Github
+# Práctica de Git
+## Recursos
+1. Los comandos de uso más frecuente en Git pueden consultarse a través del [siguiente enlace](https://www.freecodecamp.org/espanol/news/10-comandos-de-git-que-todo-desarrollador-deberia-saber/https://www.freecodecamp.org/espanol/news/10-comandos-de-git-que-todo-desarrollador-deberia-saber/);
+2. 
+
 ## Problemas
-1. Como nadie hace cambios, no puedo seguir practicando sobre cómo se trabaja en [Github][enlaceproyecto-git] 
+1. Como nadie hace cambios, no puedo seguir practicando sobre cómo se trabaja en [Github][enlaceproyecto-git];
+2.  
 
 
 [^esmejorponernombrealasnotas]: Los dispositivos de almacenamiento externo pueden incluir: pendrives o discos duros
