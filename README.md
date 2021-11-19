@@ -11,8 +11,6 @@
 6. No instale nuevos programas salvo bajo pedido/autorización de la DITIC.
 7. No pierdas de vista tu celular.
 
-
-
 Problemas | Soluciones
 -- | --
 Dispositivo de almacenamiento externo desconocido| No conectarlo en computadoras del MREC:
@@ -22,8 +20,13 @@ Escritorio personal sucio y desordenado	| No ser sucio
 Columna 1 | Columna 2
 -- | --
 Fila 1 | Fila 2
- 
+
+# Práctica de Github
+## Problemas
+1. Como nadie hace cambios, no puedo seguir practicando sobre cómo se trabaja en [Github][enlaceproyecto-git] 
 
 
 [^esmejorponernombrealasnotas]: Los dispositivos de almacenamiento externo pueden incluir: pendrives o discos duros
 [^problemanotasalpie]: En el portal donde se visualiza el producto 
+
+[enlaceproyecto-git]: https://github.com/cbqmrec/proyecto-git 
